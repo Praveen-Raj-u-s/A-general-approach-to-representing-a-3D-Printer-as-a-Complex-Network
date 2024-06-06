@@ -157,3 +157,7 @@ Node Colors and Sizes: Nodes are colored and sized based on their roles and cent
 ## 4. Conclusion:
 
 The graph provides a detailed view of the 3D printer's system architecture, highlighting the Control Board and Power Supply as the most crucial components. It also underscores the importance of motor drivers and sensors in maintaining the printer’s functionality. This visualization helps identify key components and their interactions, which can be useful for troubleshooting, optimizing performance, and understanding the overall system dynamics.
+
+
+
+## A Simple Python Version: https://github.com/Praveen-Raj-u-s/A-general-approach-to-representing-a-3D-Printer-as-a-Complex-Network/blob/main/3d_printer_as_a_complex_network.py
