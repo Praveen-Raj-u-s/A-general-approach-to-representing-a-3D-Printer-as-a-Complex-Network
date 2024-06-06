@@ -160,4 +160,4 @@ The graph provides a detailed view of the 3D printer's system architecture, high
 
 
 
-## A Simple Python Version: https://github.com/Praveen-Raj-u-s/A-general-approach-to-representing-a-3D-Printer-as-a-Complex-Network/blob/main/3d_printer_as_a_complex_network.py
+## A Simplified Python Implementation: https://github.com/Praveen-Raj-u-s/A-general-approach-to-representing-a-3D-Printer-as-a-Complex-Network/blob/main/3d_printer_as_a_complex_network.py
